@@ -181,7 +181,7 @@
 # file_menu.add_separator()#the line in btwn
 # file_menu.add_command(label="Exit", command=root.destroy)
 # # Create an Edit menu
-# edit_menu = tk.Menu(menu_bar, tearoff=0)
+# edit_menu = tk.Menu(menu_bar, tearoff=0)#A tear-off menu is a small, detachable window that contains the menu items. When you set the tearoff option to a non-zero value, a tear-off menu is created
 # menu_bar.add_cascade(label="Edit", menu=edit_menu)
 # # Add items to the Edit menu
 # edit_menu.add_command(label="Cut")
